@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Building RAG Agents with LLMs 
 
 
@@ -165,4 +164,3 @@ This **GitHub README.md** covers:
 - **Evaluation Results**  
 - **Future Enhancements**  
 
-Let me know if you'd like any changes! 🚀
